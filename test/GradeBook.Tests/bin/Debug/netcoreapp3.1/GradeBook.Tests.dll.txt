@@ -1,0 +1,7 @@
+GradeBook.Tests.BookTests.BookCalculateAnAverageGrade
+GradeBook.Tests.TypeTests.WriteLogDelegateCanPointToMethod
+GradeBook.Tests.TypeTests.ValueTypesAlsoPassByValue
+GradeBook.Tests.TypeTests.CSharpCanPassByRef
+GradeBook.Tests.TypeTests.CanSetNameFromReference
+GradeBook.Tests.TypeTests.CSharpIsPassByValue
+GradeBook.Tests.TypeTests.GetBookReturnsDifferentObkects
